@@ -1,6 +1,6 @@
 # FinTermNews 🗠  💰  🤑
 
-FinTermNews is a script which will read the RSS-Feed from finanzen.net and pretty print is in the terminal. But it will only print the feeds of stocks you are interessted in.
+FinTermNews is a script which will read the RSS-Feed from finanzen.net and pretty print it in the terminal (Just News). But it will only print the feeds of stocks you are interessted in.
 
 ## Installation
 
